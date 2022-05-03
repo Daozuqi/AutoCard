@@ -11,10 +11,10 @@
             "username":"3190100210",
             "password":"126586clxd",
             "mail":"***",
-            "cron":"0 0 2 * * ? *",
+            "cron":"0 54 1 * * ? *",
             "dingtalkurl": "https://oapi.dingtalk.com/robot/send?access_token=fff90217e25ea77dcf3a6ef29effce64b01f7345eabeaab4289ece002177d86c",
             "dingtalksecret": "SEC1f986f51c52c51d1d0e567000b0481330ea947fb4af274eee2adcf388408b343",
-            "delay":true,1800
+            "delay":false
         },
         {
             "username":"***",
